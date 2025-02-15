@@ -1,11 +1,11 @@
 
 <p align="center">
-  <img src="https://github.com/yakshitgupta310/EzyMail-Chrome-Extension/blob/main/icon/ezymail.png?raw=true" alt="EzyMail image"/>
+  <img src="https://github.com/yakshitgupta310/EzyMail-Chrome-Extension/blob/main/icon/ezymail.png?raw=true" alt="EzyMail image" width="300" height="200"/>
 </p>
 
 # EzyMail-Chrome-Extension
 
-The EzyMail Chrome extension allows you to reply to your Gmail mails using AI-powered smart replies and rephrase text dynamically. This extension seamlessly integrates a AI-Reply button in to Gmail UI. It interacts with a [Spring Boot backend][https://ezymail-production.up.railway.app/ezymail] to process AI-generated responses by harnessing the GEN-AI API.
+The EzyMail Chrome extension allows you to reply to your Gmail mails using AI-powered smart replies and rephrase text dynamically. This extension seamlessly integrates a AI-Reply button in to Gmail UI. It interacts with a [Spring Boot backend](https://ezymail-production.up.railway.app/ezymail) to process AI-generated responses by harnessing the GEN-AI API.
 
 ## Installation
 
