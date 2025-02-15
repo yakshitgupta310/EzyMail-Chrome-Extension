@@ -36,7 +36,8 @@ To use the Text Rephrase feature:
 2. Type or paste the text you want to rephrase.
 3. Click the Rephrase button, and a rephrased version will be generated instantly.
 
-Note - Check out the Spring Boot backend for this extension [here](https://github.com/yakshitgupta310/EzyMail).
+**Note** - Check out the Spring Boot backend for this extension [here](https://github.com/yakshitgupta310/EzyMail).
+
 ## License
 
 This project is licensed under the [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt).
