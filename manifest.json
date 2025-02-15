@@ -1,0 +1,19 @@
+{
+    "name": "EzyMail Extension",
+    "description": "Gen-AI powered Smart Mail Writer",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions":["activeTab"],
+    "host_permissions":["https://ezymail-production.up.railway.app/*", "*://mail.google.com/*"],
+    "content_scripts": [
+    {
+      "js": ["content.js"],
+      "matches": ["*://mail.google.com/*"],
+      "run_at":"document_end"
+    }],
+    "action": {
+      "default_title": "EzyMail",
+      "default_popup":"popup/popup.html",
+      "default_icon":"icon/ezymail.png"
+    }
+  }
